@@ -12,7 +12,7 @@
 
   ### About me
 - ⚡ Last 10 years or so I have been working as a QA Engineer in gamedev but now I'm WEB Developer :beetle: :computer: :grin:
-- 📫 How to reach me: **sucelius@yandex.ru / Telegram @sucelius**
+- 📫 How to reach me: **sucelius@yandex.ru / [Telegram @sucelius](https://t.me/sucelius)**
 
 
 
