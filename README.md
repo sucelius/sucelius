@@ -4,9 +4,9 @@
 
 
 ### My Development Stack
-- __Front-end:__ JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS
+- __Front-end:__ JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), Vue 2, Vue 3, Vuex, Pina, HTML5, CSS, Tailwind CSS
 - __Back-end:__ Node.js, Express, Sessions/Tokens, CORS, WebSockets
-- __Database:__ PostgreSQL, Sequelize ORM
+- __Database:__ PostgreSQL, Sequelize ORM, TypeORM, Prisma ORM
 - __Tests:__ Jest
 - __Tools:__ Docker, REST, Gitlab CI,TeamCity, Postman
 
@@ -22,7 +22,7 @@
 Около 10 лет проработал в тестировании компьютерных и мобильных игр, сейчас занимаюсь веб разработкой.
 
 C чем я умею работать:
-- Фронтенд: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS
+- Фронтенд: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), Vue 2, Vue 3, Vuex, Pina, HTML5, CSS, Tailwind CSS
 - Бекенд: Node.js, Express, Sessions/Tokens, CORS, WebSockets
-- Базы данных: PostgreSQL, Sequelize ORM
+- Базы данных: PostgreSQL, Sequelize ORM, TypeORM, Prisma ORM
 - A также: Jest, Docker, REST
